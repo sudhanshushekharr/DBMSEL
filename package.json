@@ -1,0 +1,24 @@
+{
+  "name": "eldbms5thsem",
+  "version": "1.0.0",
+  "description": "a real estate management website",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudhanshushekharr/DBMSEL.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "shekhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudhanshushekharr/DBMSEL/issues"
+  },
+  "homepage": "https://github.com/sudhanshushekharr/DBMSEL#readme"
+}
