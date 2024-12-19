@@ -2,6 +2,7 @@
   "name": "eldbms5thsem",
   "version": "1.0.0",
   "description": "a real estate management website",
+  "type": "module",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,5 +21,13 @@
   "bugs": {
     "url": "https://github.com/sudhanshushekharr/DBMSEL/issues"
   },
-  "homepage": "https://github.com/sudhanshushekharr/DBMSEL#readme"
+  "homepage": "https://github.com/sudhanshushekharr/DBMSEL#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
